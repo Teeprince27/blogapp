@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlogWebsiteApplication</string>
+    <string name="network_failure">No network</string>
+</resources>
